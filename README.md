@@ -17,7 +17,7 @@ Improving Computational Efficiency in 2D Urban Flood Models:
 This excerpt discusses various strategies employed to enhance the computational efficiency of 2D hydrodynamic urban flood models, which are often computationally expensive, especially when dealing with high-resolution data. It outlines four main approaches used to speed up these models, acknowledging that while these methods reduce computational costs, handling vast amounts of high-accuracy remote sensing data remains a challenge.
 
 Main Idea:
-To address the high computational cost of 2D urban flood models, particularly with high-resolution data, researchers have developed several speed-up approaches focusing on parallelization, model simplification, grid coarsening with detail compensation, and cellular automata.
+To address the high computational cost of 2D urban flood models, particularly with high-resolution data, researchers have developed several speed-up approaches focusing on # parallelization, # model simplification, # grid coarsening with detail compensation, and # cellular automata.
 
 Explanation of Details
 Improving the computational efficiency of 2D hydrodynamic models is crucial for their practical application, especially in large-scale and real-time scenarios. The paper identifies four primary strategies:
